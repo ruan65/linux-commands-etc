@@ -1,1 +1,3 @@
-# linux-commands-etc
+### linux commands
+
+*lsof* - list open files
