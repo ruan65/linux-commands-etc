@@ -1,3 +1,3 @@
 ### linux commands
 
-*lsof* - list open files
+**lsof** - list open files
