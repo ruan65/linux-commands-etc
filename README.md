@@ -7,3 +7,13 @@
 
 **lsof -p 10839** shows files that the process is using
 
+**lsof -i tcp**
+
+**lsof -i udp**
+
+++++++++++++++++++++++++++++++++++++++++
+
+**df** - report file system disk space usage
+
+**df -h**
+
